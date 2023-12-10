@@ -15,11 +15,6 @@ This repository contains an Arduino program designed to monitor and analyze the 
 
 The program continuously reads current data from the sensor, calculates RPM, and compares the measured RPM with the expected healthy RPM derived from a fitted function. If the deviation exceeds a set threshold, it flags the motor as potentially faulty.
 
-## Code Structure 🧱
-
-- `main.ino`: Contains the main Arduino code.
-- `README.md`: Provides an overview and instructions.
-
 ## Getting Started 🚀
 
 To run this program:
